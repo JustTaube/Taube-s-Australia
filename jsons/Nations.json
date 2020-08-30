@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Australia",
+		"leaderName": "John Curtin",
+		"adjective": ["Australian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Prime Minister Curtin, you will lead Australia through challenge after challenge, and your people will emerge all the stronger for it. Others will seek friendship for your strength. If these friends prove loyal, your might and protection will carry you far. But stay vigilant, for aggression is not your natural course.",
+		"startIntroPart2": "Your people need you once again, will you build a civilization that stands the test of time?",
+		"declaringWar": "After thorough deliberation, Australia finds itself at a crossroads. Prepare yourself, war is upon us.",
+		"attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"introduction": "John Curtin, I speak for the people of Australia as their Prime Minister. We seek sympathetic allies in the fight against the hawks of war.",
+		"neutralHello": "Hello.",
+		"hateHello": "So what now?",
+		"tradeRequest": "I hope that you'll accept this trade, it's in both our intrests.",
+		"outerColor": [8,162,10],
+		"innerColor": [227,213,20],
+		"uniqueName": "Land Down-Under",
+		"uniques": ["[+1 Culture] from every [Farm]", "[+1 Culture] from every [Pasture]", "[+1 Gold] from every [Mine]"],
+		"cities": ["Canberra","Sydney","Melbourne","Peth","Adelaide","Darwin","","Brisbane","Hobart","Geelong","Bargo",
+			"Broken Hill","Coff's Harbour","Derby","Denmark","Ebenezer","Franklin","Gooloolong","Greenock","Harrietville",
+			"Iron Knob","Jamestown","Karumba","Koonya","Larrimah","Lismore","Mandurah","Milla Milla","Moree",
+			"Townsville","Winton","Zeehan"]
+	},
+]

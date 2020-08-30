@@ -1,0 +1,27 @@
+
+game.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Australia
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/ANZAC Soldier
+  rotate: false
+  xy: 704, 776
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/ANZAC Soldier
+  rotate: false
+  xy: 2, 104
+  size: 700, 700
+  orig: 700, 700
+  offset: 0, 0
+  index: -1

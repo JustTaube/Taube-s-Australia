@@ -1,0 +1,18 @@
+[
+{
+		"name": "ANZAC Soldier",
+		"unitType": "Melee",
+		"uniqueTo": "Australia",
+		"replaces": "Great War Infantry",
+		"movement": 2,
+		"strength": 50,
+		"uniques": ["Amphibious"],
+		"promotions": ["Drill I"]
+		"cost": 300,
+		"requiredTech": "Replaceable Parts",
+		"hurryCostModifier": 20,
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+		"attackSound": "shot"
+	},
+]
