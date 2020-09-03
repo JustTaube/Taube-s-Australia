@@ -19,7 +19,7 @@
 		"innerColor": [227,213,20],
 		"uniqueName": "Land Down-Under",
 		"uniques": ["[+1 Culture] from every [Farm]", "[+1 Culture] from every [Pasture]", "[+1 Gold] from every [Mine]","[+1 Food] from every [Desert]"],
-		"cities": ["Canberra","Sydney","Melbourne","Peth","Adelaide","Darwin","","Brisbane","Hobart","Geelong","Bargo",
+		"cities": ["Canberra","Sydney","Melbourne","Perth","Adelaide","Darwin","","Brisbane","Hobart","Geelong","Bargo",
 			"Broken Hill","Coff's Harbour","Derby","Denmark","Ebenezer","Franklin","Gooloolong","Greenock","Harrietville",
 			"Iron Knob","Jamestown","Karumba","Koonya","Larrimah","Lismore","Mandurah","Milla Milla","Moree",
 			"Townsville","Winton","Zeehan"]
